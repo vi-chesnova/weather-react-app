@@ -1,10 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;500&display=swap");
+
 .Weather {
-  font-family: arial, sans-serif;
+  font-family: "Poppins", sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
   border-radius: 4px;
-  color: rgb(135, 135, 135);
-  margin: 30px auto;
+  color: white;
 }
 
 .Weather h1 {
@@ -27,19 +28,15 @@
 }
 
 .Weather .temperature {
-  font-weight: bold;
-  color: rgb(33, 33, 33);
+  font-weight: 300px;
+  color: white;
   font-size: 64px;
-  line-height: 64px;
-  margin-left: 5px;
-  font-weight: 400;
   margin-left: 10px;
 }
 
-.Weather .unit {
-  color: rgb(33, 33, 33);
-  font-size: 16px;
-  font-weight: 400;
+.Weather .units {
+  font-size: 20px;
+  font-weight: 300;
   position: relative;
   line-height: 1;
   top: -34px;
