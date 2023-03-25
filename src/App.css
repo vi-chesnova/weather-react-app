@@ -20,4 +20,6 @@
 .App footer {
   font-size: 11px;
   color: white;
+  max-width: 700px;
+  margin: auto;
 }
