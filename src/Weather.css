@@ -2,7 +2,7 @@
 
 .Weather {
   font-family: "Poppins", sans-serif;
-
+  max-width: 700px;
   color: white;
 }
 
